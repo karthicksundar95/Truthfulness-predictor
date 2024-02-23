@@ -1,4 +1,7 @@
 # Truthfulness Predictor
+
+This project is to build a python package which would run a automted model building with grid search and cross-validation on the given dataset (statement or quotes made by moteble people from USA) and settle on the best model among them and expose to the user to leverage it to test on new incoming data. The prediction is the truthfulness (TRUE/FALSE) of the statement input sent by the user.
+ 
 ### Installation guide
 
 Create a seperate environment just in case to avoid any conflicts with other packages already installed in your system
