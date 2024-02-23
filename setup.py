@@ -1,0 +1,28 @@
+from setuptools import setup, find_packages
+
+setup(
+    name='TruthPredict',
+    version='0.1',
+    packages=find_packages(),
+    install_requires=[
+        'graphviz==0.20.1',
+        'joblib==1.2.0',
+        'lime==0.2.0.1',
+        'matplotlib==3.8.2',
+        'matplotlib-inline==0.1.6',
+        'nltk==3.8.1',
+        'numba==0.58.1',
+        'numpy==1.26.3',
+        'pandas==2.2.0',
+        'pip==23.3.1',
+        'plotly==5.9.0',
+        'regex==2023.10.3',
+        'scikit-image==0.20.0',
+        'scikit-learn==1.3.0',
+        'scipy==1.11.4',
+        'shap==0.42.1',
+        'tqdm==4.65.0',
+        'xgboost==2.0.3',
+        'contractions==0.1.73'
+],
+)

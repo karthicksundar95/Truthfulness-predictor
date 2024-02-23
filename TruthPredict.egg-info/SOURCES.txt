@@ -1,0 +1,12 @@
+README.md
+setup.py
+TruthPredict/DataPreparation.py
+TruthPredict/Predictor.py
+TruthPredict/__init__.py
+TruthPredict/constants.py
+TruthPredict/main.py
+TruthPredict.egg-info/PKG-INFO
+TruthPredict.egg-info/SOURCES.txt
+TruthPredict.egg-info/dependency_links.txt
+TruthPredict.egg-info/requires.txt
+TruthPredict.egg-info/top_level.txt
